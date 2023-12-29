@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "262649169481",
+    "firebase_url": "https://ecology-7efc5-default-rtdb.firebaseio.com",
+    "project_id": "ecology-7efc5",
+    "storage_bucket": "ecology-7efc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262649169481:android:1896ae4bba4dc973b46198",
+        "android_client_info": {
+          "package_name": "com.esp.esp32project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOTv8HdXkzNNbwrP3uwyesAznxMm3LppA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262649169481:android:be1b3980c6e8e3dcb46198",
+        "android_client_info": {
+          "package_name": "com.example.stkn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOTv8HdXkzNNbwrP3uwyesAznxMm3LppA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
